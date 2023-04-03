@@ -5,9 +5,9 @@
 Ladies and gentlemen, get ready to meet the one, the only, the web-developing, music-making, editing wizard, and gaming guru! With a passion that burns brighter than the sun and a friendliness that's contagious, this goofily cool individual is sure to leave a lasting impression on anyone lucky enough to cross their path. So put your hands together and give it up for the multi-talented, multi-passionate, and downright awesome force to be reckoned with! Check his channel here YouTube channel "[Begboi][youtube]"
 
    <p align="left">
-      <a href="https://www.youtube.com/c/UCHw_hTJZnVYDMkNZj91momg?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/begboi231?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/UCHw_hTJZnVYDMkNZj91momg">
+      <a href="https://www.youtube.com/c/begboi231">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/begb0i?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/begb0i?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -45,7 +45,7 @@ Ladies and gentlemen, get ready to meet the one, the only, the web-developing, m
 
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/UCHw_hTJZnVYDMkNZj91momg?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/begboi231?sub_confirmation=1)
 
 #
 
@@ -66,4 +66,4 @@ In addition to his love for music and technology, this individual also had a kee
 Despite his busy schedule, this individual never forgot their roots as a gamer, and continued to find time to indulge in his favorite pastime. Through it all, he remained passionate, friendly, and dedicated to his craft, always striving to learn more and become the best version of himself. And so, our hero continues to chase his dreams, creating, building, and inspiring those around him to do the same.
 
 [website]: https://fkcodes.com
-[youtube]: https://www.youtube.com/channel/UCHw_hTJZnVYDMkNZj91momg
+[youtube]: https://www.youtube.com/channel/begboi231
