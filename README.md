@@ -1,4 +1,4 @@
-# 👨‍💻 begb0i
+# 🎉 begb0i
 
 **`Digital Artist (Web Developer/Editor/Gamer/Musician)`**
 
@@ -63,10 +63,9 @@ Ladies and gentlemen, get ready to meet the one, the only, the web-developing, m
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 begb0i's Coding Journey</h3></summary>
 Once upon a time, there was a passionate and friendly individual with a love for all things creative. From a young age, he discovered a talent for music and spent countless hours honing his skills as a musician, determined to share his passion with the world. As he grew older, his interests expanded, and he found himself drawn to the world of technology and web development. He immersed himself in the world of coding, constantly learning and striving to improve his skills.
-
-   
+<br>
 In addition to his love for music and technology, this individual also had a keen eye for detail and a natural talent for editing. He quickly found himself in demand as an editor, working on a wide variety of projects across various mediums.
 
 Despite his busy schedule, this individual never forgot their roots as a gamer, and continued to find time to indulge in his favorite pastime. Through it all, he remained passionate, friendly, and dedicated to his craft, always striving to learn more and become the best version of himself. And so, our hero continues to chase his dreams, creating, building, and inspiring those around him to do the same.
